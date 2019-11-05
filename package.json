@@ -1,0 +1,8 @@
+{
+  "name": "bucklescript-recursive-module-repro",
+  "private": true,
+  "dependencies": {
+    "bs-platform": "6.2.1",
+    "ocaml-protoc-plugin-runtime-bs": "issuu/ocaml-protoc-plugin#1252fb0"
+  }
+}

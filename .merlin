@@ -1,0 +1,11 @@
+####{BSB GENERATED: NO EDIT
+FLG -ppx '/Users/wczekalski/Documents/Work/Projects.nosync/bucklescript-recursive-module/node_modules/bs-platform/lib/bsppx.exe -bs-jsx 3'
+S /Users/wczekalski/Documents/Work/Projects.nosync/bucklescript-recursive-module/node_modules/bs-platform/lib/ocaml
+B /Users/wczekalski/Documents/Work/Projects.nosync/bucklescript-recursive-module/node_modules/bs-platform/lib/ocaml
+FLG -nostdlib
+FLG -w -30-40+6+7+27+32..39+44+45+101
+S /Users/wczekalski/Documents/Work/Projects.nosync/bucklescript-recursive-module/node_modules/ocaml-protoc-plugin-runtime-bs/lib/ocaml
+B /Users/wczekalski/Documents/Work/Projects.nosync/bucklescript-recursive-module/node_modules/ocaml-protoc-plugin-runtime-bs/lib/ocaml
+S src
+B lib/bs/src
+####BSB GENERATED: NO EDIT}
